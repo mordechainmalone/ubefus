@@ -2,10 +2,10 @@
 
 [← 返回 ubefus 内容导航](README.md)
 
-本页汇总仓库内“加拿大pc28预测”主题文章，按关键词维度整理，共 **88** 篇。
+本页汇总仓库内“加拿大pc28预测”主题文章，按关键词维度整理，共 **89** 篇。
 
 <!-- gitflow:articles:start -->
-## 开奖结果（88篇）
+## 开奖结果（89篇）
 
 - [pc28余数算法｜2026开奖数据、规则与核对指南](https://github.com/mordechainmalone/ubefus/blob/main/pc28%E4%BD%99%E6%95%B0%E7%AE%97%E6%B3%95%EF%BD%9C2026%E5%BC%80%E5%A5%96%E6%95%B0%E6%8D%AE%E3%80%81%E8%A7%84%E5%88%99%E4%B8%8E%E6%A0%B8%E5%AF%B9%E6%8C%87%E5%8D%97.md) — pc28余数算法主题解读 <!-- gitflow:article:77fdef8c03ce9d8c04d1474d75d290325f2c71513c3e6f9ebc666c91d3e01949 -->
 - [pc28八种算法的｜2026开奖数据、规则与核对指南](https://github.com/mordechainmalone/ubefus/blob/main/pc28%E5%85%AB%E7%A7%8D%E7%AE%97%E6%B3%95%E7%9A%84%EF%BD%9C2026%E5%BC%80%E5%A5%96%E6%95%B0%E6%8D%AE%E3%80%81%E8%A7%84%E5%88%99%E4%B8%8E%E6%A0%B8%E5%AF%B9%E6%8C%87%E5%8D%97.md) — pc28八种算法的主题解读 <!-- gitflow:article:2f7e4d6ece893e4faba590bb7720a628cb9c7eae40d96909aea26460883406fa -->
@@ -43,6 +43,7 @@
 - [pc28算法公式编写｜2026开奖数据、规则与核对指南](https://github.com/mordechainmalone/ubefus/blob/main/pc28%E7%AE%97%E6%B3%95%E5%85%AC%E5%BC%8F%E7%BC%96%E5%86%99%EF%BD%9C2026%E5%BC%80%E5%A5%96%E6%95%B0%E6%8D%AE%E3%80%81%E8%A7%84%E5%88%99%E4%B8%8E%E6%A0%B8%E5%AF%B9%E6%8C%87%E5%8D%97.md) — pc28算法公式编写主题解读 <!-- gitflow:article:14c60a8fae7dacc5de6a648e19314327c79060e2795ac72261531cf7d3fff17b -->
 - [pc28算法吧｜2026开奖数据、规则与核对指南](https://github.com/mordechainmalone/ubefus/blob/main/pc28%E7%AE%97%E6%B3%95%E5%90%A7%EF%BD%9C2026%E5%BC%80%E5%A5%96%E6%95%B0%E6%8D%AE%E3%80%81%E8%A7%84%E5%88%99%E4%B8%8E%E6%A0%B8%E5%AF%B9%E6%8C%87%E5%8D%97.md) — pc28算法吧主题解读 <!-- gitflow:article:a70852815c75ccf16afb7447f668fea85397bb418370eccd9bd73ec40e576c78 -->
 - [pc28算法库｜2026开奖数据、规则与核对指南](https://github.com/mordechainmalone/ubefus/blob/main/pc28%E7%AE%97%E6%B3%95%E5%BA%93%EF%BD%9C2026%E5%BC%80%E5%A5%96%E6%95%B0%E6%8D%AE%E3%80%81%E8%A7%84%E5%88%99%E4%B8%8E%E6%A0%B8%E5%AF%B9%E6%8C%87%E5%8D%97.md) — pc28算法库主题解读 <!-- gitflow:article:da3679d236df37e296a52003486f9a25f994a5efa6ddea2a830655406582bdb3 -->
+- [pc28算法思路｜2026开奖数据、规则与核对指南](https://github.com/mordechainmalone/ubefus/blob/main/pc28%E7%AE%97%E6%B3%95%E6%80%9D%E8%B7%AF%EF%BD%9C2026%E5%BC%80%E5%A5%96%E6%95%B0%E6%8D%AE%E3%80%81%E8%A7%84%E5%88%99%E4%B8%8E%E6%A0%B8%E5%AF%B9%E6%8C%87%E5%8D%97.md) — pc28算法思路主题解读 <!-- gitflow:article:bf25f69026443c3b85bbeb60051d2cf00540d0e11e10822e6cc7a9873ac62580 -->
 - [pc28算法计算工具｜2026开奖数据、规则与核对指南](https://github.com/mordechainmalone/ubefus/blob/main/pc28%E7%AE%97%E6%B3%95%E8%AE%A1%E7%AE%97%E5%B7%A5%E5%85%B7%EF%BD%9C2026%E5%BC%80%E5%A5%96%E6%95%B0%E6%8D%AE%E3%80%81%E8%A7%84%E5%88%99%E4%B8%8E%E6%A0%B8%E5%AF%B9%E6%8C%87%E5%8D%97.md) — pc28算法计算工具主题解读 <!-- gitflow:article:988ca2c4f1d1619318f3419995c31377119d5a1adeee181524edaf095045b14d -->
 - [pc28算法预测｜2026开奖数据、规则与核对指南](https://github.com/mordechainmalone/ubefus/blob/main/pc28%E7%AE%97%E6%B3%95%E9%A2%84%E6%B5%8B%EF%BD%9C2026%E5%BC%80%E5%A5%96%E6%95%B0%E6%8D%AE%E3%80%81%E8%A7%84%E5%88%99%E4%B8%8E%E6%A0%B8%E5%AF%B9%E6%8C%87%E5%8D%97.md) — pc28算法预测主题解读 <!-- gitflow:article:5f7c97281cff743ebbb1c18e674e14009ec5d1b264905c94817d153a9b8f3580 -->
 - [pc28组合在线预测｜2026开奖数据、规则与核对指南](https://github.com/mordechainmalone/ubefus/blob/main/pc28%E7%BB%84%E5%90%88%E5%9C%A8%E7%BA%BF%E9%A2%84%E6%B5%8B%EF%BD%9C2026%E5%BC%80%E5%A5%96%E6%95%B0%E6%8D%AE%E3%80%81%E8%A7%84%E5%88%99%E4%B8%8E%E6%A0%B8%E5%AF%B9%E6%8C%87%E5%8D%97.md) — pc28组合在线预测主题解读 <!-- gitflow:article:a31a254f753388be10158ea56b847c9c2af5199ca80844625e7e44f10ca7d93c -->
